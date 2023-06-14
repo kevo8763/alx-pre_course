@@ -1,1 +1,1 @@
-My first readme has just been updated
+Git as a version control.
